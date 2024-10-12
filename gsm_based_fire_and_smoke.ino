@@ -1,11 +1,3 @@
-//By HomeMade Electronics
-//Subscribe to my channel https://www.youtube.com/channel/UC8isJR_71x1wIfw6jB106pg
-//Visit website https://sirboatengonline.com
-//for more tutorial videos
-//like, share and leave a comment if you need help
-// Credit: Gidey Gebrehiwot, Academia.com, Arduino.cc
-
-
 #include<Servo.h>
 Servo myservo;
 int pos = 0;
